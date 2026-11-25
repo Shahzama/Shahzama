@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Shahzama">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=Frontend+Engineer+%26+Data+Analyst;React+%C2%B7+TypeScript+%C2%B7+Power+BI+%C2%B7+SQL;I+turn+data+into+clear%2C+fast+dashboards;Exploring+AI+that+runs+in+the+browser" alt="Frontend Engineer & Data Analyst. React · TypeScript · Power BI · SQL. I turn data into clear, fast dashboards. Exploring AI that runs in the browser." />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Data+Analyst;React+%C2%B7+TypeScript+%C2%B7+Power+BI+%C2%B7+SQL;I+turn+data+into+clear%2C+fast+dashboards;Exploring+AI+that+runs+in+the+browser" alt="Software Engineer & Data Analyst. React · TypeScript · Power BI · SQL. I turn data into clear, fast dashboards. Exploring AI that runs in the browser." />
   </a>
 </p>
 
@@ -15,8 +15,8 @@
 
 ## 🧑‍💻 About me
 
-- **Frontend Engineer** with **3+ years** of experience building data-driven web apps for **finance, pharma and industrial** teams. Previously at **Accenture**.
-- Also working as a **Data Analyst**: analysing data with **SQL, Power BI, Tableau and Snowflake**, then turning it into clear **analytics dashboards and visualizations**. Google Data Analytics certified.
+- **Software Engineer** with **3+ years** of experience building data-driven web apps for **finance, pharma and industrial** teams. Previously at **Accenture**.
+- **Growing into data analytics**: analysing data with **SQL, Power BI, Tableau and Snowflake**, then turning it into clear **analytics dashboards and visualizations**. Google Data Analytics certified.
 - I care about **performance** (memoization, code splitting, fewer re-renders) and **accessibility**.
 - MBA in Financial Management, so I bring business context to the UI I build.
 
