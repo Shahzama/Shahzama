@@ -18,7 +18,7 @@
 - **Software Engineer** with **3+ years** of experience building data-driven web apps for **finance, pharma and industrial** teams. Previously at **Accenture**.
 - **Growing into data analytics**: analysing data with **SQL, Power BI, Tableau and Snowflake**, then turning it into clear **analytics dashboards and visualizations**. Google Data Analytics certified.
 - I care about **performance** (memoization, code splitting, fewer re-renders) and **accessibility**.
-- MBA in Financial Management, so I bring business context to the UI I build.
+- MBA in Financial and IT Management, so I bring business context to the UI I build.
 
 ## 🚀 Featured projects
 
