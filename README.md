@@ -15,8 +15,8 @@
 
 ## 🧑‍💻 About me
 
-- **Frontend Engineer & Data Analyst** with **3+ years** of experience building data-driven web apps for **finance, pharma and industrial** teams. Previously at **Accenture**.
-- I work across the whole data journey: **analysing data with SQL, Power BI, Tableau and Snowflake**, then turning it into fast, clear **analytics dashboards and visualizations**.
+- **Frontend Engineer** with **3+ years** of experience building data-driven web apps for **finance, pharma and industrial** teams. Previously at **Accenture**.
+- Also working as a **Data Analyst**: analysing data with **SQL, Power BI, Tableau and Snowflake**, then turning it into clear **analytics dashboards and visualizations**. Google Data Analytics certified.
 - I care about **performance** (memoization, code splitting, fewer re-renders) and **accessibility**.
 - MBA in Financial Management, so I bring business context to the UI I build.
 
